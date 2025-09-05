@@ -65,23 +65,22 @@ Welcome to my GitHub! I’m passionate about turning **data into insights**, bui
 - 📊 [**Live Cricket Dashboard**](https://github.com/Arvindoffical/Live-Cricket-Dashboard)  
   Real-time cricket data visualization with analytics insights.  
 
-- 💰 [**Expense Tracking Application (Python + Tkinter)**](https://github.com/Arvindoffical/Expense-Tracker)  
+- 💰 [**Expense Tracking Application (Python + Tkinter)**](https://github.com/Arvindoffical/Expense-Tracking-Application)
   Desktop app to manage and analyze personal expenses.  
 
-- 📈 [**Sales Data Dashboard**](https://github.com/Arvindoffical/Sales-Dashboard)  
+- 📈 [**Sales Data Dashboard**](https://github.com/Arvindoffical/Diwali_Sales_Analysis)  
   Interactive Excel/Power BI dashboard for tracking KPIs and insights.  
 
 ---
 
 ### 🔹 Other Projects  
-- 🎟️ [**Ticket Booking System (Java)**](https://github.com/Arvindoffical/Ticket-Booking-System)  
+- 🎟️ [**Ticket Booking System (Java)**](https://github.com/Arvindoffical/ticketbooking) 
   Console-based ticket management system using file handling.  
 
 - 🌐 [**Portfolio Website**](https://github.com/Arvindoffical/Portfolio-Website)  
   Personal website built with HTML, CSS, and JavaScript.  
 
-- 📚 [**PDF Automation Tool**](https://github.com/Arvindoffical/PDF-Automation)  
-  Python script for extracting, cleaning, and analyzing PDF data.  
+
 
 ---
 
@@ -95,7 +94,7 @@ Welcome to my GitHub! I’m passionate about turning **data into insights**, bui
 ## 🌍 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arvind-garg-54b5a3258/)  
-- ✉️ Email: **your-email-here@gmail.com**  
+- ✉️ Email: **arvinddhu02@@gmail.com**  
 
 ---
 
