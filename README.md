@@ -50,19 +50,16 @@ Welcome to my GitHub! I’m passionate about turning **data into insights**, bui
 - 🌾 [**Intelligent Crop Management System (ICMS)**](https://github.com/Arvindoffical/Intelligent-Crop-Management-System)  
   Smart farming solution leveraging **IoT & ML** for yield optimization.  
 
-- 🚗 [**Used Car Price Prediction**](https://github.com/Arvindoffical/Used-Car-Price-Prediction)  
+- 🚗 [**Used Car Price Prediction**](https://github.com/Arvindoffical/Car-Price-prediction)  
   ML model to estimate used car prices using Kaggle dataset.  
 
-- 🏠 [**House Price Prediction**](https://github.com/Arvindoffical/House-Price-Prediction)  
-  Regression model predicting real estate prices with ML algorithms.  
-
-- 🤖 [**Chatbot with NLP**](https://github.com/Arvindoffical/Chatbot-NLP)  
+- 🤖 [**Chatbot with NLP**](https://github.com/Arvindoffical/chat-app)  
   Conversational bot built with **NLTK & Python**.  
 
 ---
 
 ### 🔹 Applications & Dashboards  
-- 📊 [**Live Cricket Dashboard**](https://github.com/Arvindoffical/Live-Cricket-Dashboard)  
+- 📊 [**Live Cricket Dashboard**](https://github.com/Arvindoffical/ipl-2025)  
   Real-time cricket data visualization with analytics insights.  
 
 - 💰 [**Expense Tracking Application (Python + Tkinter)**](https://github.com/Arvindoffical/Expense-Tracking-Application)
